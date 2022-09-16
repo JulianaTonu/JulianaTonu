@@ -12,6 +12,6 @@ Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JulianaTonu&theme=highcontrast&show_icons=true"/>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/JulianaTonu) 
+######![Profile views](https://gpvc.arturio.dev/JulianaTonu) 
 
  

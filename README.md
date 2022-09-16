@@ -1,7 +1,8 @@
-### I'm **Juliana Tonu**
-#### Web Developer
+# I'm **Juliana Tonu**
+### Web Developer
+🌱 I’m currently learning **React** 
 
-                               ..........**Skills**.........  
+## 💻 *Technologies That I Know*  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -11,12 +12,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-- 🌱 I’m currently learning **React** 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JulianaTonu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JulianaTonu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_____juliiiiiiiiiiiiiiii_____/)  
-
 
 <br>
 
@@ -29,6 +24,15 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+## 👀🔎 *Reach me out*  
+[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/JulianaTonu) 
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='40'>](https://linkedin/juliana-tonu) 
+[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/_____juliiiiiiiiiiiiiiii_____/)  
+
+
 
 <br>
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaTonu&layout=compact)"/>

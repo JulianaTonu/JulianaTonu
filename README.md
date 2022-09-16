@@ -13,4 +13,5 @@ Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaTonu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/JulianaTonu)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaTonu&theme=dark&show_icons=true)
+ 

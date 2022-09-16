@@ -27,7 +27,9 @@
 
 <br>
 
-## 👀🔎 *Reach me out*  
+## 🔎👀 *Reach me out*  
+
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='40'>](https://www.gmail.com/JulianaTonu) 
 [<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/JulianaTonu) 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='40'>](https://linkedin/juliana-tonu) 
 [<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/_____juliiiiiiiiiiiiiiii_____/)  

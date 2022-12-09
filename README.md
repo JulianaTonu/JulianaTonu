@@ -1,6 +1,6 @@
 # I'm **Juliana Tonu**
-### Web Developer
-🌱 I’m currently learning **React** 
+### ReactJs Developer 
+🌱 I’m from Dhaka, Bangladesh  
 
 ## 💻 *Technologies That I Know*  
 
